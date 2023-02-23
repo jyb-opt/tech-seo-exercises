@@ -1,0 +1,19 @@
+{
+  "redirects": [
+    { 
+      "source": "/other/Air_Jordan_1-Nike.html",
+      "destination": "/other/air-jordan-1-nike.html", 
+      "permanent": true
+    },
+    { 
+      "source": "/images/chuck-taylor-converse.jpeg",
+      "destination": "/images/chuck-taylor-all-star-converse.jpeg", 
+      "permanent": true
+    },
+    { 
+      "source": "/other/Chuck_Taylor_All_Star-Converse.html",
+      "destination": "//other/chuck-taylor-all-star-converse.html", 
+      "permanent": true
+    }
+  ]
+}
