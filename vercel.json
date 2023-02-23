@@ -12,7 +12,7 @@
     },
     { 
       "source": "/other/Chuck_Taylor_All_Star-Converse.html",
-      "destination": "//other/chuck-taylor-all-star-converse.html", 
+      "destination": "/other/chuck-taylor-all-star-converse.html", 
       "permanent": true
     }
   ]
