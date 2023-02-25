@@ -14,6 +14,32 @@
       "source": "/other/Chuck_Taylor_All_Star-Converse.html",
       "destination": "/other/chuck-taylor-all-star-converse.html", 
       "permanent": true
+    },
+    { 
+      "source": "/other/Old_Skool-Vans.html",
+      "destination": "/other/old-skool-vans.html", 
+      "permanent": true
+    },
+    { 
+      "source": "/other/Stan_Smith-Adidas.html",
+      "destination": "/other/stan-smith-adidas.html", 
+      "permanent": true
+    },
+    { 
+      "source": "/other/Shadow-Saucony.html",
+      "destination": "/other/shadow-saucony.html", 
+      "permanent": true
+    },
+    { 
+      "source": "/other/Mexico_66-Onitsuka_Tiger.html",
+      "destination": "/other/mexico-66-onitsuka-tiger.html", 
+      "permanent": true
+    },
+    { 
+      "source": "/other/990-New_Balance.html",
+      "destination": "/other/990-new-balance.html", 
+      "permanent": true
     }
+
   ]
 }
