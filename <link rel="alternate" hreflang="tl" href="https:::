@@ -1,3 +1,6 @@
+<!-- For the default page -->
+  <link rel="alternate" hreflang="x-default" href="https://tech-seo-exercises-answers.vercel.app/after/hreflang-example.html">
+
 <link rel="alternate" hreflang="tl" href="https://tech-seo-exercises-seven.vercel.app/after/tagalog.html" />
 <link rel="alternate" hreflang="fr" href="https://tech-seo-exercises-seven.vercel.app/after/french.html" />
 <link rel="alternate" hreflang="vi" href="https://tech-seo-exercises-seven.vercel.app/after/vietnamese.html" />
@@ -8,4 +11,3 @@
 <link rel="alternate" hreflang="en-GB" href="https://tech-seo-exercises-seven.vercel.app/after/hreflang-example.html" />
 <link rel="alternate" hreflang="en-AU" href="https://tech-seo-exercises-seven.vercel.app/after/hreflang-example.html" />
 <link rel="alternate" hreflang="en" href="https://tech-seo-exercises-seven.vercel.app/after/english.html" />
-<link rel="alternate" hreflang="x-default" href="https://tech-seo-exercises-seven.vercel.app/after/hreflang-example.html" />
